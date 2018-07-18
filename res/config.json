@@ -1,0 +1,54 @@
+{
+    "slotItem": {
+        "size": 100,
+        "icon": 60,
+        "types": [
+            {
+                "id": 1,
+                "icon": "../res/items/apple.png",
+                "name": "apple"
+            },
+            {
+                "id": 2,
+                "icon": "../res/items/cherry.png",
+                "name": "cherry"
+            },
+            {
+                "id": 3,
+                "icon": "../res/items/grapes.png",
+                "name": "grapes"
+            },
+            {
+                "id": 4,
+                "icon": "../res/items/lemon.png",
+                "name": "lemon"
+            },
+            {
+                "id": 5,
+                "icon": "../res/items/orange.png",
+                "name": "orange"
+            },
+            {
+                "id": 6,
+                "icon": "../res/items/pineapple.png",
+                "name": "pineapple"
+            },
+            {
+                "id": 7,
+                "icon": "../res/items/raspberry.png",
+                "name": "raspberry"
+            }
+        ]
+    },
+    "slotRoulette": {
+        "itemsCount": 3,
+        "accelerationTime": 25,
+        "spinTime": 180,
+        "decelerationTime": 5,
+        "spinSpeed": 15
+    },
+    "slotMachine": {
+        "roulettesCount": 3,
+        "roulettesSpinDelay": 15
+    }
+}
